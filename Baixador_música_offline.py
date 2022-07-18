@@ -4,8 +4,8 @@ from pytube import YouTube
 from tkinter import *
 import os
 
-path = r""       # Path where your new music folder is gonna be
-directory = ""   # Name of the folder to allocate the musics
+path = r""       # Path where your new music folder is gonna be     (E.g.: r"C:\Users\[your_pc_user]\Desktop)
+directory = ""   # Name of the folder to allocate the musics        (E.g: "Downloaded musics"
 
 
 global x 
